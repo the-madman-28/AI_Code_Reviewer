@@ -1,0 +1,348 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Employee Authentication Portal</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+</head>
+
+<body>
+
+    <main class="page-container">
+
+        <!-- ========================================= -->
+        <!-- HEADER -->
+        <!-- ========================================= -->
+
+        <header class="app-header">
+
+            <p class="phase-label">
+                SECURE AUTHENTICATION PORTAL
+            </p>
+
+            <h1>
+                Employee Authentication
+            </h1>
+
+            <p class="header-description">
+                Create an account or sign in
+                with your registered credentials.
+            </p>
+
+        </header>
+
+
+        <!-- ========================================= -->
+        <!-- AUTHENTICATION CARD -->
+        <!-- ========================================= -->
+
+        <section class="auth-card">
+
+
+            <!-- ===================================== -->
+            <!-- TABS -->
+            <!-- ===================================== -->
+
+            <div class="auth-tabs">
+
+                <button
+                    type="button"
+                    id="loginTab"
+                    class="tab-button active"
+                >
+                    Login
+                </button>
+
+                <button
+                    type="button"
+                    id="registerTab"
+                    class="tab-button"
+                >
+                    Create Account
+                </button>
+
+            </div>
+
+
+            <!-- ===================================== -->
+            <!-- LOGIN SECTION -->
+            <!-- ===================================== -->
+
+            <section
+                id="loginSection"
+                class="auth-section active-section"
+            >
+
+                <div class="card-heading">
+
+                    <h2>
+                        Welcome Back
+                    </h2>
+
+                    <p>
+                        Enter your registered credentials
+                        to continue.
+                    </p>
+
+                </div>
+
+
+                <form
+                    id="loginForm"
+                    novalidate
+                >
+
+                    <!-- USER ID -->
+
+                    <div class="form-group">
+
+                        <label for="loginUserId">
+                            User ID
+                        </label>
+
+                        <input
+                            type="text"
+                            id="loginUserId"
+                            name="userId"
+                            placeholder="Example: EMP123"
+                            autocomplete="username"
+                        >
+
+                        <small class="input-hint">
+                            Letters and numbers only
+                        </small>
+
+                    </div>
+
+
+                    <!-- PASSWORD -->
+
+                    <div class="form-group">
+
+                        <label for="loginPassword">
+                            Password
+                        </label>
+
+                        <div class="password-wrapper">
+
+                            <input
+                                type="password"
+                                id="loginPassword"
+                                name="password"
+                                placeholder="Enter your password"
+                                autocomplete="current-password"
+                            >
+
+                            <button
+                                type="button"
+                                id="toggleLoginPassword"
+                                class="toggle-password"
+                            >
+                                Show
+                            </button>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- LOGIN BUTTON -->
+
+                    <button
+                        type="submit"
+                        id="loginButton"
+                        class="primary-button"
+                    >
+                        Login
+                    </button>
+
+
+                    <!-- LOGIN MESSAGE -->
+
+                    <div
+                        id="loginMessage"
+                        class="message"
+                        aria-live="polite"
+                    ></div>
+
+                </form>
+
+            </section>
+
+
+            <!-- ===================================== -->
+            <!-- REGISTRATION SECTION -->
+            <!-- ===================================== -->
+
+            <section
+                id="registerSection"
+                class="auth-section"
+            >
+
+                <div class="card-heading">
+
+                    <h2>
+                        Create Account
+                    </h2>
+
+                    <p>
+                        Register a new employee account.
+                    </p>
+
+                </div>
+
+
+                <form
+                    id="registerForm"
+                    novalidate
+                >
+
+                    <!-- FULL NAME -->
+
+                    <div class="form-group">
+
+                        <label for="registerName">
+                            Full Name
+                        </label>
+
+                        <input
+                            type="text"
+                            id="registerName"
+                            name="name"
+                            placeholder="Enter your full name"
+                            autocomplete="name"
+                        >
+
+                    </div>
+
+
+                    <!-- USER ID -->
+
+                    <div class="form-group">
+
+                        <label for="registerUserId">
+                            User ID
+                        </label>
+
+                        <input
+                            type="text"
+                            id="registerUserId"
+                            name="userId"
+                            placeholder="Example: EMP456"
+                            autocomplete="username"
+                        >
+
+                        <small class="input-hint">
+                            Letters and numbers only
+                        </small>
+
+                    </div>
+
+
+                    <!-- PASSWORD -->
+
+                    <div class="form-group">
+
+                        <label for="registerPassword">
+                            Password
+                        </label>
+
+                        <div class="password-wrapper">
+
+                            <input
+                                type="password"
+                                id="registerPassword"
+                                name="password"
+                                placeholder="Minimum 8 characters"
+                                autocomplete="new-password"
+                            >
+
+                            <button
+                                type="button"
+                                id="toggleRegisterPassword"
+                                class="toggle-password"
+                            >
+                                Show
+                            </button>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- CONFIRM PASSWORD -->
+
+                    <div class="form-group">
+
+                        <label for="confirmPassword">
+                            Confirm Password
+                        </label>
+
+                        <div class="password-wrapper">
+
+                            <input
+                                type="password"
+                                id="confirmPassword"
+                                name="confirmPassword"
+                                placeholder="Enter password again"
+                                autocomplete="new-password"
+                            >
+
+                            <button
+                                type="button"
+                                id="toggleConfirmPassword"
+                                class="toggle-password"
+                            >
+                                Show
+                            </button>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- REGISTER BUTTON -->
+
+                    <button
+                        type="submit"
+                        id="registerButton"
+                        class="primary-button"
+                    >
+                        Create Account
+                    </button>
+
+
+                    <!-- REGISTER MESSAGE -->
+
+                    <div
+                        id="registerMessage"
+                        class="message"
+                        aria-live="polite"
+                    ></div>
+
+                </form>
+
+            </section>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

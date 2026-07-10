@@ -1,0 +1,1204 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_db_and_tables",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SourceFile",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectCreateRequest",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectUpdateRequest",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "CurrentUser",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "CurrentUser",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "CurrentUser",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenError",
+        "importPath": "jwt.exceptions",
+        "description": "jwt.exceptions",
+        "isExtraImport": true,
+        "detail": "jwt.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenError",
+        "importPath": "jwt.exceptions",
+        "description": "jwt.exceptions",
+        "isExtraImport": true,
+        "detail": "jwt.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "files",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "projects",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordHash",
+        "importPath": "pwdlib",
+        "description": "pwdlib",
+        "isExtraImport": true,
+        "detail": "pwdlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "backend.app.routers.auth",
+        "description": "backend.app.routers.auth",
+        "peekOfCode": "def register(\n    request: RegisterRequest,\n    session: SessionDependency\n):\n    user_id = request.user_id.strip()\n    name = request.name.strip()\n    # --------------------------------------------------\n    # VALIDATE NAME\n    # --------------------------------------------------\n    if name == \"\":",
+        "detail": "backend.app.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "backend.app.routers.auth",
+        "description": "backend.app.routers.auth",
+        "peekOfCode": "def login(\n    request: LoginRequest,\n    session: SessionDependency\n):\n    user_id = request.user_id.strip()\n    # --------------------------------------------------\n    # FIND USER\n    # --------------------------------------------------\n    statement = select(User).where(\n        User.user_id == user_id",
+        "detail": "backend.app.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routers.auth",
+        "description": "backend.app.routers.auth",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/auth\",\n    tags=[\"Authentication\"],\n)\n# ======================================================\n# REGISTER\n# ======================================================\n@router.post(\n    \"/register\",\n    status_code=status.HTTP_201_CREATED",
+        "detail": "backend.app.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_owned_project",
+        "kind": 2,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "def get_owned_project(\n    project_id: int,\n    current_user,\n    session\n) -> Project:\n    statement = select(Project).where(\n        Project.id == project_id,\n        Project.owner_id ==\n        current_user.id\n    )",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "validate_filename",
+        "kind": 2,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "def validate_filename(\n    raw_filename: str | None\n) -> tuple[str, str]:\n    # --------------------------------------------------\n    # MISSING NAME\n    # --------------------------------------------------\n    if not raw_filename:\n        raise HTTPException(\n            status_code=\n                status.HTTP_400_BAD_REQUEST,",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "list_project_files",
+        "kind": 2,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "def list_project_files(\n    project_id: int,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # VERIFY OWNERSHIP\n    # --------------------------------------------------\n    project = get_owned_project(\n        project_id,",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "get_source_file",
+        "kind": 2,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "def get_source_file(\n    project_id: int,\n    file_id: int,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # VERIFY PROJECT OWNERSHIP\n    # --------------------------------------------------\n    project = get_owned_project(",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "delete_source_file",
+        "kind": 2,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "def delete_source_file(\n    project_id: int,\n    file_id: int,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # VERIFY PROJECT OWNERSHIP\n    # --------------------------------------------------\n    project = get_owned_project(",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/projects\",\n    tags=[\"Source Files\"],\n)\n# ======================================================\n# UPLOAD CONFIGURATION\n# ======================================================\n#\n# Maximum:\n#",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_FILE_SIZE",
+        "kind": 5,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "MAX_FILE_SIZE = 1024 * 1024\n# ======================================================\n# ALLOWED EXTENSIONS\n# ======================================================\nALLOWED_EXTENSIONS = {\n    \".py\": \"python\",\n    \".js\": \"javascript\",\n    \".jsx\": \"javascript\",\n    \".mjs\": \"javascript\",\n    \".cjs\": \"javascript\",",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_EXTENSIONS",
+        "kind": 5,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "ALLOWED_EXTENSIONS = {\n    \".py\": \"python\",\n    \".js\": \"javascript\",\n    \".jsx\": \"javascript\",\n    \".mjs\": \"javascript\",\n    \".cjs\": \"javascript\",\n    \".cpp\": \"cpp\",\n    \".cc\": \"cpp\",\n    \".cxx\": \"cpp\",\n    \".h\": \"cpp\",",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "SAFE_FILENAME_PATTERN",
+        "kind": 5,
+        "importPath": "backend.app.routers.files",
+        "description": "backend.app.routers.files",
+        "peekOfCode": "SAFE_FILENAME_PATTERN = re.compile(\n    r\"^[A-Za-z0-9._-]+$\"\n)\n# ======================================================\n# GET OWNED PROJECT\n# ======================================================\ndef get_owned_project(\n    project_id: int,\n    current_user,\n    session",
+        "detail": "backend.app.routers.files",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_language",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def normalize_language(\n    language: str\n) -> str:\n    normalized = (\n        language\n        .strip()\n        .lower()\n    )\n    aliases = {\n        \"py\": \"python\",",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "create_project",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def create_project(\n    request: ProjectCreateRequest,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # NORMALIZE INPUT\n    # --------------------------------------------------\n    name = request.name.strip()\n    description = (",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "list_projects",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def list_projects(\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    statement = (\n        select(Project)\n        .where(\n            Project.owner_id ==\n            current_user.id\n        )",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "get_project",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def get_project(\n    project_id: int,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    statement = select(Project).where(\n        Project.id == project_id,\n        Project.owner_id ==\n        current_user.id\n    )",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "update_project",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def update_project(\n    project_id: int,\n    request: ProjectUpdateRequest,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # FIND OWNED PROJECT\n    # --------------------------------------------------\n    statement = select(Project).where(",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "delete_project",
+        "kind": 2,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "def delete_project(\n    project_id: int,\n    current_user: CurrentUser,\n    session: SessionDependency\n):\n    # --------------------------------------------------\n    # FIND OWNED PROJECT\n    # --------------------------------------------------\n    statement = select(Project).where(\n        Project.id == project_id,",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/projects\",\n    tags=[\"Projects\"],\n)\n# ======================================================\n# SUPPORTED LANGUAGES\n# ======================================================\nSUPPORTED_LANGUAGES = {\n    \"python\",\n    \"javascript\",",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "SUPPORTED_LANGUAGES",
+        "kind": 5,
+        "importPath": "backend.app.routers.projects",
+        "description": "backend.app.routers.projects",
+        "peekOfCode": "SUPPORTED_LANGUAGES = {\n    \"python\",\n    \"javascript\",\n    \"cpp\",\n}\n# ======================================================\n# LANGUAGE NORMALIZATION\n# ======================================================\ndef normalize_language(\n    language: str",
+        "detail": "backend.app.routers.projects",
+        "documentation": {}
+    },
+    {
+        "label": "get_me",
+        "kind": 2,
+        "importPath": "backend.app.routers.users",
+        "description": "backend.app.routers.users",
+        "peekOfCode": "def get_me(\n    current_user: CurrentUser\n):\n    return {\n        \"success\": True,\n        \"user\": {\n            \"id\":\n                current_user.id,\n            \"user_id\":\n                current_user.user_id,",
+        "detail": "backend.app.routers.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "backend.app.routers.users",
+        "description": "backend.app.routers.users",
+        "peekOfCode": "def get_users(\n    session: SessionDependency\n):\n    statement = select(User)\n    users = session.exec(\n        statement\n    ).all()\n    safe_users = []\n    for user in users:\n        safe_users.append({",
+        "detail": "backend.app.routers.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routers.users",
+        "description": "backend.app.routers.users",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/users\",\n    tags=[\"Users\"],\n)\n# ======================================================\n# CURRENT AUTHENTICATED USER\n# ======================================================\n#\n# Protected endpoint:\n#",
+        "detail": "backend.app.routers.users",
+        "documentation": {}
+    },
+    {
+        "label": "create_db_and_tables",
+        "kind": 2,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "def create_db_and_tables() -> None:\n    SQLModel.metadata.create_all(\n        engine\n    )\n# ======================================================\n# DATABASE SESSION DEPENDENCY\n# ======================================================\n#\n# Every request that needs database access receives\n# its own Session.",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "def get_session() -> Generator[\n    Session,\n    None,\n    None\n]:\n    with Session(engine) as session:\n        yield session\n# ======================================================\n# REUSABLE SESSION DEPENDENCY TYPE\n# ======================================================",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "DATABASE_URL = \"sqlite:///auth.db\"\n# ======================================================\n# SQLITE CONNECTION ARGUMENTS\n# ======================================================\nconnect_args = {\n    \"check_same_thread\": False\n}\n# ======================================================\n# CREATE DATABASE ENGINE\n# ======================================================",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "connect_args",
+        "kind": 5,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "connect_args = {\n    \"check_same_thread\": False\n}\n# ======================================================\n# CREATE DATABASE ENGINE\n# ======================================================\n#\n# echo=True\n#\n# Prints generated SQL queries in the terminal.",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "engine = create_engine(\n    DATABASE_URL,\n    connect_args=connect_args,\n    echo=True,\n)\n# ======================================================\n# CREATE DATABASE TABLES\n# ======================================================\ndef create_db_and_tables() -> None:\n    SQLModel.metadata.create_all(",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionDependency",
+        "kind": 5,
+        "importPath": "backend.app.database",
+        "description": "backend.app.database",
+        "peekOfCode": "SessionDependency = Annotated[\n    Session,\n    Depends(get_session)\n]",
+        "detail": "backend.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.app.dependencies",
+        "description": "backend.app.dependencies",
+        "peekOfCode": "def get_current_user(\n    credentials: Annotated[\n        HTTPAuthorizationCredentials | None,\n        Depends(bearer_scheme)\n    ],\n    session: SessionDependency\n) -> User:\n    # --------------------------------------------------\n    # TOKEN MISSING\n    # --------------------------------------------------",
+        "detail": "backend.app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "bearer_scheme",
+        "kind": 5,
+        "importPath": "backend.app.dependencies",
+        "description": "backend.app.dependencies",
+        "peekOfCode": "bearer_scheme = HTTPBearer(\n    auto_error=False\n)\n# ======================================================\n# GET CURRENT AUTHENTICATED USER\n# ======================================================\ndef get_current_user(\n    credentials: Annotated[\n        HTTPAuthorizationCredentials | None,\n        Depends(bearer_scheme)",
+        "detail": "backend.app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "CurrentUser",
+        "kind": 5,
+        "importPath": "backend.app.dependencies",
+        "description": "backend.app.dependencies",
+        "peekOfCode": "CurrentUser = Annotated[\n    User,\n    Depends(get_current_user)\n]",
+        "detail": "backend.app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def home():\n    return {\n        \"success\": True,\n        \"message\":\n            \"Backend is running\",\n        \"phase\":\n            \"Phase 4A\",\n        \"architecture\":\n            \"Multi-file backend\",\n        \"features\": [",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def health():\n    return {\n        \"status\": \"healthy\",\n        \"database\":\n            \"SQLite\",\n        \"password_storage\":\n            \"Argon2 hash\",\n        \"architecture\":\n            \"modular\",\n    }",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\n        \"Authentication Learning API\",\n    description=(\n        \"Multi-file authentication backend \"\n        \"with SQLite, SQLModel, and \"\n        \"secure password hashing\"\n    ),\n    version=\n        \"4.0.0\",",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.app.models",
+        "description": "backend.app.models",
+        "peekOfCode": "class User(SQLModel, table=True):\n    id: int | None = Field(\n        default=None,\n        primary_key=True\n    )\n    user_id: str = Field(\n        index=True,\n        unique=True\n    )\n    name: str",
+        "detail": "backend.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "kind": 6,
+        "importPath": "backend.app.models",
+        "description": "backend.app.models",
+        "peekOfCode": "class Project(SQLModel, table=True):\n    id: int | None = Field(\n        default=None,\n        primary_key=True\n    )\n    name: str = Field(\n        index=True\n    )\n    description: str = Field(\n        default=\"\"",
+        "detail": "backend.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SourceFile",
+        "kind": 6,
+        "importPath": "backend.app.models",
+        "description": "backend.app.models",
+        "peekOfCode": "class SourceFile(SQLModel, table=True):\n    # --------------------------------------------------\n    # PRIMARY KEY\n    # --------------------------------------------------\n    id: int | None = Field(\n        default=None,\n        primary_key=True\n    )\n    # --------------------------------------------------\n    # ORIGINAL SAFE FILENAME",
+        "detail": "backend.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    name: str\n    user_id: str\n    password: str\nclass LoginRequest(BaseModel):\n    user_id: str\n    password: str\nclass UserResponse(BaseModel):\n    id: int",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    user_id: str\n    password: str\nclass UserResponse(BaseModel):\n    id: int\n    user_id: str\n    name: str\n    role: str\nclass TokenResponse(BaseModel):",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    user_id: str\n    name: str\n    role: str\nclass TokenResponse(BaseModel):\n    success: bool\n    message: str\n    access_token: str\n    token_type: str",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    success: bool\n    message: str\n    access_token: str\n    token_type: str\n    expires_in: int\n    user: UserResponse\n# ======================================================\n# PROJECT SCHEMAS\n# ======================================================",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectCreateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class ProjectCreateRequest(BaseModel):\n    name: str\n    description: str = \"\"\n    primary_language: str\nclass ProjectUpdateRequest(BaseModel):\n    name: str | None = None\n    description: str | None = None\n    primary_language: str | None = None\nclass ProjectResponse(BaseModel):",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectUpdateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class ProjectUpdateRequest(BaseModel):\n    name: str | None = None\n    description: str | None = None\n    primary_language: str | None = None\nclass ProjectResponse(BaseModel):\n    id: int\n    name: str\n    description: str\n    primary_language: str\n    owner_id: int",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class ProjectResponse(BaseModel):\n    id: int\n    name: str\n    description: str\n    primary_language: str\n    owner_id: int\n    created_at: datetime\n    updated_at: datetime\n# ======================================================\n# SOURCE FILE RESPONSE",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SourceFileResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class SourceFileResponse(BaseModel):\n    id: int\n    filename: str\n    extension: str\n    language: str\n    size_bytes: int\n    sha256: str\n    project_id: int\n    uploaded_by: int\n    created_at: datetime",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SourceFileDetailResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas",
+        "description": "backend.app.schemas",
+        "peekOfCode": "class SourceFileDetailResponse(\n    SourceFileResponse\n):\n    content: str",
+        "detail": "backend.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "def hash_password(\n    plain_password: str\n) -> str:\n    return password_hash.hash(\n        plain_password\n    )\ndef verify_password(\n    plain_password: str,\n    stored_password_hash: str\n) -> bool:",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "def verify_password(\n    plain_password: str,\n    stored_password_hash: str\n) -> bool:\n    return password_hash.verify(\n        plain_password,\n        stored_password_hash\n    )\n# ======================================================\n# JWT CONFIGURATION",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "def create_access_token(\n    subject: str,\n    role: str\n) -> str:\n    now = datetime.now(\n        timezone.utc\n    )\n    expires_at = now + timedelta(\n        minutes=ACCESS_TOKEN_EXPIRE_MINUTES\n    )",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "kind": 2,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "def decode_access_token(\n    token: str\n) -> dict:\n    payload = jwt.decode(\n        token,\n        SECRET_KEY,\n        algorithms=[ALGORITHM]\n    )\n    return payload",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "password_hash",
+        "kind": 5,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "password_hash = PasswordHash.recommended()\ndef hash_password(\n    plain_password: str\n) -> str:\n    return password_hash.hash(\n        plain_password\n    )\ndef verify_password(\n    plain_password: str,\n    stored_password_hash: str",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "SECRET_KEY = os.getenv(\n    \"JWT_SECRET_KEY\",\n    \"development-only-change-this-secret-key\"\n)\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# ======================================================\n# CREATE ACCESS TOKEN\n# ======================================================\ndef create_access_token(",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# ======================================================\n# CREATE ACCESS TOKEN\n# ======================================================\ndef create_access_token(\n    subject: str,\n    role: str\n) -> str:\n    now = datetime.now(",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "backend.app.security",
+        "description": "backend.app.security",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\n# ======================================================\n# CREATE ACCESS TOKEN\n# ======================================================\ndef create_access_token(\n    subject: str,\n    role: str\n) -> str:\n    now = datetime.now(\n        timezone.utc",
+        "detail": "backend.app.security",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i\ndef _object_keys(value):\n    for key in value:\n        yield key\ndef _is_array(value):",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "kind": 2,
+        "importPath": "test-files.vulnerable",
+        "description": "test-files.vulnerable",
+        "peekOfCode": "def run_command(user_input):\n    os.system(user_input)",
+        "detail": "test-files.vulnerable",
+        "documentation": {}
+    },
+    {
+        "label": "API_KEY",
+        "kind": 5,
+        "importPath": "test-files.vulnerable",
+        "description": "test-files.vulnerable",
+        "peekOfCode": "API_KEY = \"EqkWD0Ml7Z4BU6lFPyLxvqh_c7uAGCXWV6HWdD9nOkIBPkFejSQrA2qaJnplRK_z_8RdI0ivjPkd-th0wlQJ0A\"\ndef run_command(user_input):\n    os.system(user_input)",
+        "detail": "test-files.vulnerable",
+        "documentation": {}
+    }
+]
